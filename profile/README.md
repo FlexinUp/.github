@@ -1,4 +1,5 @@
-[logo]: https://github.com/FlexinUp/.github/blob/main/profile/images/flexinup.png "Logo Title Text 2"
+Inline-style: 
+![alt text](https://github.com/FlexinUp/.github/blob/main/profile/images/flexinup.png "Logo Title Text 1")
 
 [![Anurag's GitHub stats](https://github-readme-stats-delta-ivory.vercel.app/api?username=flexinup)](https://github.com/flexinup/github-readme-stats)
 
