@@ -1,3 +1,6 @@
+<h1 align="center"> 👋 </h1>
+<div align="center">
+
 [![Anurag's GitHub stats](https://github-readme-stats-delta-ivory.vercel.app/api?username=flexinup)](https://github.com/flexinup/github-readme-stats)
 
 <!--<img src="https://apple-music-readme-rose.vercel.app/.vercel.app/?">-->
