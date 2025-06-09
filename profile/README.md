@@ -5,6 +5,7 @@
 <!--<img src="https://apple-music-readme-rose.vercel.app/.vercel.app/?">-->
 
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
