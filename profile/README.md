@@ -1,5 +1,9 @@
 ![alt text](https://github.com/FlexinUp/.github/blob/main/profile/images/flexinup.png "Logo Title Text 1")
 
+<p align="center">
+  <img width="460" height="300" src="https://github.com/FlexinUp/.github/blob/main/profile/images/flexinup.png "Logo Title Text 1">
+</p>
+
 [![Anurag's GitHub stats](https://github-readme-stats-delta-ivory.vercel.app/api?username=flexinup&show_icons=true&theme=shadow_red)](https://github.com/flexinup/github-readme-stats)
 
 <!--<img src="https://apple-music-readme-rose.vercel.app/.vercel.app/?">-->
